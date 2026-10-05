@@ -1,0 +1,6 @@
+{
+  "name": "fixture/pricing",
+  "autoload": { "psr-4": { "App\\": "src/" } },
+  "require-dev": { "phpunit/phpunit": "^10.5" },
+  "scripts": { "test": "phpunit tests" }
+}
